@@ -1,0 +1,159 @@
+.page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .page .overlap-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 647px;
+    width: 1163px;
+  }
+  
+  .page .overlap {
+    height: 647px;
+    position: relative;
+    width: 966px;
+  }
+  
+  .page .rectangle {
+    height: 647px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 759px;
+  }
+  
+  .page .text-wrapper {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 729px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 162px;
+    width: 237px;
+  }
+  
+  .page .line {
+    height: 2px;
+    left: 740px;
+    position: absolute;
+    top: 228px;
+    width: 108px;
+  }
+  
+  .page .username {
+    height: 42px;
+    left: 657px;
+    position: absolute;
+    top: 303px;
+    width: 274px;
+  }
+  
+  .page .div {
+    color: #00000080;
+    font-family: "Inter", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    width: 238px;
+  }
+  
+  .page .img {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 40px;
+    width: 274px;
+  }
+  
+  .page .password {
+    height: 41px;
+    left: 657px;
+    position: absolute;
+    top: 374px;
+    width: 274px;
+  }
+  
+  .page .overlap-group {
+    height: 42px;
+    position: relative;
+    top: -1px;
+  }
+  
+  .page .text-wrapper-2 {
+    color: #00000080;
+    font-family: "Inter", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 238px;
+  }
+  
+  .page .login-BTN {
+    height: 62px;
+    left: 657px;
+    position: absolute;
+    top: 501px;
+    width: 276px;
+  }
+  
+  .page .overlap-2 {
+    height: 62px;
+    position: relative;
+    width: 274px;
+  }
+  
+  .page .rectangle-2 {
+    background-color: #0056ff;
+    border-radius: 70px;
+    height: 56px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 274px;
+  }
+  
+  .page .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 35px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 6px;
+    width: 274px;
+  }
+  
+  .page .text-wrapper-4 {
+    color: #0038ff;
+    font-family: "Inter", Helvetica;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 500;
+    left: 601px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 438px;
+    width: 268px;
+  }
+  
